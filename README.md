@@ -27,10 +27,8 @@ Welcome to **My Awesome Website**, a powerful and stylish platform designed for 
 ## 🚀 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/bilaltanveer2/portfoilo.git
+git clone https://github.com/usama5321/usama-_portfilo.git
 
-# Navigate to project folder
-cd my-awesome-website
 
 # Install dependencies
 npm install
